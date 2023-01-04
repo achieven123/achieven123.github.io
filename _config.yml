@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "Rossum's Blog"
 title_separator          : "|"
 subtitle                 : "Version 2.0"
