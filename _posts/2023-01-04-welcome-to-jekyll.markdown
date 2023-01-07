@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "블로그 첫 포스팅"
 date:   2023-01-04 23:54:52 +0900
 categories: jekyll update
 ---
