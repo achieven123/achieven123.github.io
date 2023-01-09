@@ -1,8 +1,12 @@
 ---
-layout: single
 title:  "Welcome to Jekyll!"
+layout: single
 date:   2023-01-08 23:45:52 +0900
-categories: introduce
+categories:
+    - C Sharp
+sidebar:
+  title:
+  nav: sidebar
 toc: true
 ---
 # Heading

@@ -1,5 +1,17 @@
 main:
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
+  - title: "Home"
+    url: /
+  - title: "Category"
     url: /categories/
+  - title: "About"
+    url: /about/
+
+sidebar:
+  - title: "C/C++/C#"
+    children:
+      - title: "C"
+        url: /categories/c/
+      - title: "C++"
+        url: /categories/cpp/
+      - title: "C#"
+        url: /categories/csharp/

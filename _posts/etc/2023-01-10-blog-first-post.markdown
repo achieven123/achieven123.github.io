@@ -1,8 +1,13 @@
 ---
-layout: single
 title:  "블로그 첫 포스팅"
-date:   2023-01-04 23:54:52 +0900
-categories: jekyll update
+layout: single
+date:   2023-01-09 23:54:52 +0900
+categories:
+    - etc
+sidebar:
+  title:
+  nav: sidebar
+toc: true
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
