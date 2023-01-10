@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  
 layout: single
 date:   2023-01-08 23:45:52 +0900
 categories:
