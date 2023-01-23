@@ -7,11 +7,7 @@ main:
     url: /about/
 
 sidebar:
-  - title: "C/C++/C#"
+  - title: "UE4"
     children:
-      - title: "C"
+      - title: "Study UE4 in 24 Hours"
         url: /categories/c/
-      - title: "C++"
-        url: /categories/cpp/
-      - title: "C#"
-        url: /categories/csharp/

@@ -1,6 +1,6 @@
 # Theme Settings
-# theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 
@@ -15,7 +15,7 @@ url                      : "https://achieven123.github.io"
 baseurl                  : "/"
 repository               : "achieven123/achieven123.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : # "/assets/images/logo.png"
 masthead_title           : "로섬의 개발 블로그"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -238,7 +238,5 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
       related: true
       show_date: true
